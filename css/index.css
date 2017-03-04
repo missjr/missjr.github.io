@@ -24,3 +24,7 @@ body{
     width:380px;
     height:auto;
 }
+.worksBox a{
+    color:#fff;
+    font-style:italic;
+}
