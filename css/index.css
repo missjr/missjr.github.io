@@ -28,3 +28,6 @@ body{
     color:#fff;
     font-style:italic;
 }
+.worksBox a:hover{
+    color:#f00;
+}
