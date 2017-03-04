@@ -26,8 +26,12 @@ body{
 }
 .worksBox a{
     color:#fff;
+    font-size:18px;
     font-style:italic;
+    text-decoration:none;
 }
 .worksBox a:hover{
     color:#f00;
+    font-size:25px;
+    text-decoration: underline;
 }
