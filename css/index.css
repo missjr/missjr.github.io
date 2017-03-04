@@ -6,7 +6,7 @@ body{
     background-color: #000;
 }
 .worksBox{
-    width:500px;
+    width:380px;
     margin:0 auto;
     margin-top:20px;
     border:3px solid #fff;
@@ -21,6 +21,6 @@ body{
     font-weight:normal;
 }
 .worksBox img{
-    width:500px;
+    width:380px;
     height:auto;
 }
